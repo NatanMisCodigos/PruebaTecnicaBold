@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PruebaTecnicaBold</string>
+    <string name="message_loading">Cargando...</string>
+    <string name="edit_text_search">Buscar localizacion</string>
+    <string name="generic_error">Ocurrio un error</string>
+    <string name="list_is_empty">Sin datos</string>
+</resources>
